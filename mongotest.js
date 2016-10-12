@@ -10,7 +10,7 @@ var config = {
       "PASS"    : "C5cEbm1kbYIH",
       "HOST"    : "ec2-54-189-192.132.us-west-2.compute.amazonaws.com",  
       "PORT"    : "27017", 
-      "DATABASE" : "my_example"
+      "DATABASE" : "admin"
     };
 	
 var dbPath  = "mongodb://"+config.USER + ":"+
